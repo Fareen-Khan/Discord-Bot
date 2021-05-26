@@ -46,4 +46,4 @@ async def blep(ctx):
     await ctx.send(embed=embed)
 
 
-client.run('NzM5OTQwNDI4MDk4NTY4MzE0.XyhxOQ.ucZczqG1SYigm8DsiL_K2EZsIUA')
+client.run('DISCORD DEVELOPER CODE')
